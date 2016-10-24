@@ -1,0 +1,9 @@
+name,provider,station,id,href,street,street number,zip,city,lat,lon,bike type,business modell,number of bikes
+Karl,Bleiberger Fabrik,Bleiberger Fabrik,karl,http://bleiberger.de/karl,Bleiberger Straße,2,52074,Aachen,50.773923,6.071992,cargo bike,free,1
+Max_und_Moritz,Transition Town Augsburg e.V.,Transition Town Augsburg,max_und_moritz,http://max-und-moritz.bike/,Obstmark,11,86152,Augsburg ,48.370770,10.895950,cargo bike,free,2
+Bisela,Transition Town Bielefeld e.V. ,Velotop,bisela,http://bisela.de/,Apfelstraße,85,33613,Bielefeld,52.043904,8.531227,cargo bike,free,1
+Bolle,Bonn im Wandel e.V.,Bonn im Wandel e.V.,bolle,https://bolle-bonn.de,Dornheckenstraße,3,53227,Bonn,50.717518,7.157131,bike trailer,free,1
+Manni,Freie Lastenräder Berlin ,Freie Lastenräder Berlin Kaiserdamm,manni,freie-lastenradler-berlin.de/,Kaiserdamm,112,14057,Berlin,52.510450,13.293200,cargo bike,free,1
+Bola,Freie Lastenräder Berlin ,Freie Lastenräder Berlin Rheinstraße,bola,freie-lastenradler-berlin.de/,Rheinstraße,60,12159,Berlin,52.470047,13.334162,cargo bike,free,1
+Rudi,Dein Rudolf,Radstation HBF Dortmund (Rudi),rudi,http://dein-rudolf.de/,Königswall ,15,44137,Dortmund,51.517309,7.459440,cargo bike,free,1
+Roter Panther,Dein Rudolf,Kiosk Zwischenstopp,roter_panther,http://dein-rudolf.de/,Kreuzstraße,103,44137,Dortmund,51.502495,7.449215,cargo bike,free,1
